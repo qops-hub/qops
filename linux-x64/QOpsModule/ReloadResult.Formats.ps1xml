@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <ViewDefinitions>
+    <View>
+      <Name>QopsModule.ReloadResult</Name>
+      <ViewSelectedBy>
+        <TypeName>QopsModule.ReloadResult</TypeName>
+      </ViewSelectedBy>
+      <TableControl>
+        <TableRowEntries>
+          <TableRowEntry>
+          </TableRowEntry>
+        </TableRowEntries>
+      </TableControl>
+    </View>
+  </ViewDefinitions>
+</Configuration>
