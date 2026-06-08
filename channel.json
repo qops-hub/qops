@@ -1,0 +1,17 @@
+﻿{
+    "channel":  "staging-cicdselftest",
+    "source_branch":  "staging-cicdselftest",
+    "version":  "3.0.5-cicdselftest.2662",
+    "commit":  "b780652a",
+    "pipeline":  5097,
+    "verified":  true,
+    "verified_on":  [
+                        "windows-x64",
+                        "linux-x64"
+                    ],
+    "built_utc":  "2026-06-08T07:29:12Z",
+    "audience":  "company",
+    "allowed_companies":  [
+                              33
+                          ]
+}
