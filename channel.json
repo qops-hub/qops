@@ -1,0 +1,15 @@
+﻿{
+    "channel":  "main-3.x",
+    "source_branch":  "v3.0.13",
+    "version":  "3.0.13",
+    "commit":  "d56d2812",
+    "source_commit":  "d56d2812dbb1887118e4e736fab9b00e694258b3",
+    "pipeline":  6737,
+    "verified":  true,
+    "verified_on":  [
+                        "windows-x64",
+                        "linux-x64"
+                    ],
+    "built_utc":  "2026-08-24T19:06:18Z",
+    "audience":  "public"
+}
