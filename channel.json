@@ -1,0 +1,15 @@
+﻿{
+    "channel":  "staging",
+    "source_branch":  "staging",
+    "version":  "3.1.2-rc.5814",
+    "commit":  "5b24e7cb",
+    "source_commit":  "5b24e7cb031047d89e14b4dfc2f811785c95cdf0",
+    "pipeline":  8365,
+    "verified":  true,
+    "verified_on":  [
+                        "windows-x64",
+                        "linux-x64"
+                    ],
+    "built_utc":  "2026-10-24T11:09:58Z",
+    "audience":  "public"
+}
