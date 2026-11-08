@@ -1,0 +1,18 @@
+﻿{
+    "channel":  "staging-mcp",
+    "source_branch":  "staging-mcp",
+    "version":  "3.1.4-mcp.6256",
+    "commit":  "31fd5fe9",
+    "source_commit":  "31fd5fe99a875c94cd68f071ac43e3b9c07f6ba8",
+    "pipeline":  8841,
+    "verified":  true,
+    "verified_on":  [
+                        "windows-x64",
+                        "linux-x64"
+                    ],
+    "built_utc":  "2026-11-08T00:01:01Z",
+    "audience":  "company",
+    "allowed_companies":  [
+                              33
+                          ]
+}
