@@ -1,0 +1,18 @@
+﻿{
+    "channel":  "staging-cloud",
+    "source_branch":  "staging-cloud",
+    "version":  "3.1.6-cloud.6585",
+    "commit":  "a53efaa4",
+    "source_commit":  "a53efaa465473d5f9e07a590cd6cce239aa9b2dc",
+    "pipeline":  9382,
+    "verified":  true,
+    "verified_on":  [
+                        "windows-x64",
+                        "linux-x64"
+                    ],
+    "built_utc":  "2026-11-20T12:21:16Z",
+    "audience":  "company",
+    "allowed_companies":  [
+                              33
+                          ]
+}
